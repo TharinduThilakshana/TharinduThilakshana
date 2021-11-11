@@ -8,9 +8,9 @@ I'm a from Sri Lanka
 
 👯 I’m looking to collaborate on youtube.
 
-📫 How to reach me : Telegram. @tharindu thilakshana
+📫 How to reach me : [Telegram](@tharindu thilakshana)
 
-💬 Ask me about anything [on telegram](https://t.me/joinchat/52H00g1YfSMxOWZl)
+💬 Ask me about anything [on Telegram](https://t.me/joinchat/52H00g1YfSMxOWZl)
 
  
  
