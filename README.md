@@ -1,22 +1,16 @@
 <h1 align="center">Hi, I'm Tharindu Thilakshana!👋</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tharinduthilakshana&label=Profile%20views&color=0e75b6&style=flat" alt="tharinduthilakshana" /> </p>
 
 
 - 👨‍💻 I'm a web developer from Sri Lanka
-
 - 👩‍🎓 I’m currently studying at Colombo Ananda Collage.
-
 - ✍ I’m currently learning Python Programming. 
-
 - 📫 How to reach me : **[Telegram](@tharinduthilakshana)**
-
 - 👯 I’m looking to collaborate **[on YouTube](https://www.youtube.com/channel/UC_wNwisVb5i33fW6rNkrIlA)**
-
 - 📄 Know about my experiences **[Website](http://techwiththarindu.cf/?i=1)**
-
 - 💬 Ask me about anything **[on Telegram](https://t.me/joinchat/52H00g1YfSMxOWZl)**
-
 - 📝 I regularly write articles on **[on Banzgeek](www.banzgeek.com)**
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tharinduthilakshana&label=Profile%20views&color=0e75b6&style=flat" alt="tharinduthilakshana" /> </p>
 
 <h3 align="left">Social Media:</h3>
 <p align="left">
