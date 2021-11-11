@@ -2,11 +2,11 @@
 
 I'm a from Sri Lanka
 
-👩‍🎓 I’m currently studying at Colombo Ananda Collage
+👩‍🎓 I’m currently studying at Colombo Ananda Collage.
 
-✍ I’m currently learning HTML, CSS, JavaScript and PHP.
+✍ I’m currently learning Python Programming. 
 
-👯 I’m looking to collaborate on youtube.
+👯 I’m looking to collaborate [on YouTube](https://www.youtube.com/channel/UC_wNwisVb5i33fW6rNkrIlA)
 
 📫 How to reach me : [Telegram](@tharindu thilakshana)
 
