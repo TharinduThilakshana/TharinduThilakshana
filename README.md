@@ -10,7 +10,7 @@ I'm a from Sri Lanka
 
 📫 How to reach me : Telegram. @tharindu thilakshana
 
-💬 Ask me about anything. 
+💬 Ask me about anything [on telegram](https://t.me/joinchat/52H00g1YfSMxOWZl)
 
  
  
