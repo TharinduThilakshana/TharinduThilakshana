@@ -1,5 +1,14 @@
 <h1 align="left">Hi, I'm Tharindu Thilakshana!👋  </h1>
-<h4 align="left">I am a web developer..</h3>
+
+👨‍💻 I'm a from Sri Lanka
+
+👩‍🎓 I’m currently studying at Colombo Ananda Collage
+
+✍ I’m currently learning HTML, CSS, JavaScript and PHP
+
+👯 I’m looking to collaborate : 
+
+💬 Ask me about anything. 
 
  
  
