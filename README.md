@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Tharindu Thilakshana!👋</h1>
+<h1 align="center">Hi, I'm Tharindu Thilakshana!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
 
 - 👨‍💻 I'm a web developer from Sri Lanka
