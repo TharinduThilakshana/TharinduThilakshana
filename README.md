@@ -1,4 +1,4 @@
-<h2 align="left">Hello<br>I'm Tharindu Thilakshana </h1>
+<h1 align="left">Hi, I'm Tharindu Thilakshana!👋  </h1>
 <h4 align="left">I am a web developer..</h3>
 
  
