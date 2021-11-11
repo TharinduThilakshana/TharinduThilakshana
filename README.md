@@ -1,4 +1,4 @@
-<h1 align="left">Hi, I'm Tharindu Thilakshana!<gif src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif">  </h1>
+<h1 align="left">Hi, I'm Tharindu Thilakshana!</h1>
 
 I'm a from Sri Lanka
 
