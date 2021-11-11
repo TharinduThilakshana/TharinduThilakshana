@@ -1,12 +1,14 @@
 <h1 align="left">Hi, I'm Tharindu Thilakshana!👋  </h1>
 
-👨‍💻 I'm a from Sri Lanka
+I'm a from Sri Lanka
 
 👩‍🎓 I’m currently studying at Colombo Ananda Collage
 
-✍ I’m currently learning HTML, CSS, JavaScript and PHP
+✍ I’m currently learning HTML, CSS, JavaScript and PHP.
 
-👯 I’m looking to collaborate : 
+👯 I’m looking to collaborate on youtube.
+
+📫 How to reach me : Telegram. @tharindu thilakshana
 
 💬 Ask me about anything. 
 
