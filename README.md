@@ -4,9 +4,9 @@
 - 👨‍💻 I'm a web developer from Sri Lanka
 - 👩‍🎓 I’m currently studying at Colombo Ananda Collage.
 - ✍ I’m currently learning Python Programming. 
-- 📫 How to reach me : **[Telegram](@tharinduthilakshana)**
+- 📫 How to reach me : **[on Telegram](@tharinduthilakshana)**
 - 👯 I’m looking to collaborate **[on YouTube](https://www.youtube.com/channel/UC_wNwisVb5i33fW6rNkrIlA)**
-- 📄 Know about my experiences **[Website](http://techwiththarindu.cf/?i=1)**
+- 📄 Know about my experiences **[Visit Website](http://techwiththarindu.cf/?i=1)**
 - 💬 Ask me about anything **[on Telegram](https://t.me/joinchat/52H00g1YfSMxOWZl)**
 - 📝 I regularly write articles on **[on Banzgeek](www.banzgeek.com)**
 
