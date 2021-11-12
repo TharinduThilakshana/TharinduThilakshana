@@ -23,4 +23,6 @@
 
 [![TharinduThilakshana's's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TharinduThilakshana&theme=blue-green)](https://github.com/TharinduThilakshana/github-readme-stats)
 
+![TharinduThilakshana's GitHub stats](https://github-readme-stats.vercel.app/api?username=TharinduThilakshana&show_icons=true&theme=radical)
+
 <p><a href="https://github.com/denvercoder1/github-readme-streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=TharinduThilakshana&theme=tokyonight"></a></p>
