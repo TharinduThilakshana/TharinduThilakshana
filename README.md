@@ -23,6 +23,6 @@
 
 [![TharinduThilakshana's's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TharinduThilakshana&theme=blue-green)](https://github.com/TharinduThilakshana/github-readme-stats)
 
-![TharinduThilakshana's GitHub stats](https://github-readme-stats.vercel.app/api?username=TharinduThilakshana&show_icons=true&theme=radical)
+![TharinduThilakshana's GitHub stats](https://github-readme-stats.vercel.app/api?username=TharinduThilakshana&show_icons=true&theme=blue-green)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TharinduThilakshana&theme=highcontrast)](https://git.io/streak-stats)
