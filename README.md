@@ -21,6 +21,6 @@
 
 <p><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&no-bg=true"></p>
 
-<p>[![TharinduThilakshana's's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TharinduThilakshana&theme=blue-green)](https://github.com/TharinduThilakshana/github-readme-stats)</p>
+[![TharinduThilakshana's's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TharinduThilakshana&theme=blue-green)](https://github.com/TharinduThilakshana/github-readme-stats)
 
 <p><a href="https://github.com/denvercoder1/github-readme-streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=TharinduThilakshana&theme=tokyonight"></a></p>
