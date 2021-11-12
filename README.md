@@ -19,10 +19,8 @@
 <a href="https://www.youtube.com/c/ᴛᴇᴄʜ ᴡɪᴛʜ ᴛʜᴀʀɪɴᴅᴜ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ᴛᴇᴄʜ ᴡɪᴛʜ ᴛʜᴀʀɪɴᴅᴜ" height="30" width="40" /></a>
 </p>
 
-[![TharinduThilakshana's's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TharinduThilakshana&theme=blue-green)](https://github.com/TharinduThilakshana/github-readme-stats)
-
 <p><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&no-bg=true"></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tharinduthilakshana&show_icons=true&locale=en&layout=compact" alt="tharinduthilakshana" /></p>
+<p>[![TharinduThilakshana's's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TharinduThilakshana&theme=blue-green)](https://github.com/TharinduThilakshana/github-readme-stats)</p>
 
 <p><a href="https://github.com/denvercoder1/github-readme-streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=TharinduThilakshana&theme=tokyonight"></a></p>
