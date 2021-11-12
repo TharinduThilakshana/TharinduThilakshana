@@ -26,4 +26,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tharinduthilakshana&show_icons=true&locale=en&layout=compact" alt="tharinduthilakshana" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tharinduthilakshana&" alt="tharinduthilakshana" /></p>
+<p><a href="https://github.com/denvercoder1/github-readme-streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=TharinduThilakshana&theme=tokyonight"></a></p>
