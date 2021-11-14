@@ -16,7 +16,7 @@
 <p align="left">
 <a href="https://twitter.com/tharinduthilak9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tharinduthilak9" height="30" width="40" /></a>
 <a href="https://instagram.com/techwiththarindu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="techwiththarindu" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ᴛᴇᴄʜ ᴡɪᴛʜ ᴛʜᴀʀɪɴᴅᴜ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ᴛᴇᴄʜ ᴡɪᴛʜ ᴛʜᴀʀɪɴᴅᴜ" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC_wNwisVb5i33fW6rNkrIlA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ᴛᴇᴄʜ ᴡɪᴛʜ ᴛʜᴀʀɪɴᴅᴜ" height="30" width="40" /></a>
 </p>
 
 <p><img src="https://github-profile-trophy.vercel.app/?username=TharinduThilakshana&no-bg=true"></p>
