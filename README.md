@@ -19,7 +19,7 @@
 <a href="https://www.youtube.com/c/ᴛᴇᴄʜ ᴡɪᴛʜ ᴛʜᴀʀɪɴᴅᴜ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ᴛᴇᴄʜ ᴡɪᴛʜ ᴛʜᴀʀɪɴᴅᴜ" height="30" width="40" /></a>
 </p>
 
-<p><img src="https://github-profile-trophy.vercel.app/?username=TharinduThilakshana&no-bg=true"></p>
+<p><img src="https://github-profile-trophy.vercel.app/?username=felixonmars&no-bg=true"></p>
 
 [![TharinduThilakshana's's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TharinduThilakshana&theme=blue-green)](https://github.com/TharinduThilakshana/github-readme-stats)
 
