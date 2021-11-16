@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Tharindu Thilakshana!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
 
-- 👨‍💻 I'm a web developer from Sri Lanka
+- 👨‍💻 I'm a from srilanka.
 - 👩‍🎓 I’m currently studying at Colombo Ananda Collage.
 - ✍ I’m currently learning Python Programming. 
 - 📫 How to reach me : **[on Telegram](@tharinduthilakshana)**
