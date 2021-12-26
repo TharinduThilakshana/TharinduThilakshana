@@ -1,9 +1,7 @@
-<a href="https://app.daily.dev/Tharindu2009"><img src="https://api.daily.dev/devcards/88d7be9c56e244799303276884dbc2c8.png?r=ll7" width="400" alt="Tharindu Thilakshana's Dev Card"/></a>
-
 <h1 align="center">Hi, I'm Tharindu Thilakshana!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
 
-- 👨‍💻 I'm a Web developer from Sri Lanka
+- 👨‍💻 I'm a Web developer from Sri Lanka <a href="https://app.daily.dev/Tharindu2009"><img src="https://api.daily.dev/devcards/88d7be9c56e244799303276884dbc2c8.png?r=ll7" width="400" alt="Tharindu Thilakshana's Dev Card"/></a>
 - 👩‍🎓 I’m currently studying at Colombo Ananda Collage.
 - ✍ I’m currently learning Python Programming. 
 - 📫 How to reach me : **[on Telegram](@tharinduthilakshana)**
