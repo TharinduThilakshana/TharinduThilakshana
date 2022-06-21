@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Tharindu Thilakshana!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h1 align="center">Hi, I'm Tharindu Thilakshana!
 
 <a href="https://app.daily.dev/Tharindu2009"><img src="https://api.daily.dev/devcards/88d7be9c56e244799303276884dbc2c8.png?r=2g5" width="400" align="right" alt="Tharindu Thilakshana's Dev Card"/></a>
 
