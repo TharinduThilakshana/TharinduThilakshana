@@ -9,8 +9,7 @@
 
 [![Github Followers](https://img.shields.io/github/followers/TharinduThilakshana?style=social)](https://github.com/Movindutb)
 [![Twitter Followers](https://img.shields.io/twitter/follow/TharinduThilak9?label=Followers&style=social)](https://twitter.com/MovinduBandara)
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tharinduthilakshana&label=Profile%20views&color=0e75b6&style=flat" alt="tharinduthilakshana" /> </p><img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UC_wNwisVb5i33fW6rNkrIlA?label=%E1%B4%9B%E1%B4%87%E1%B4%84%CA%9C%20%E1%B4%A1%C9%AA%E1%B4%9B%CA%9C%20%E1%B4%9B%CA%9C%E1%B4%80%CA%80%C9%AA%C9%B4%E1%B4%85%E1%B4%9C&style=social"><img alt="GitHub followers" src="https://img.shields.io/github/followers/tharinduthilakshana?style=social"><img alt="Visit Website" src="https://img.shields.io/badge/Visit%20Web-www.techwiththarindu.cf-green">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tharinduthilakshana&label=Profile%20views&color=0e75b6&style=flat" alt="tharinduthilakshana" /> </p>
 
 <h3 align="left">Social Media:</h3>
 <p align="left">
