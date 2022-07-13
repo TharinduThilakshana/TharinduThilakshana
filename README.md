@@ -8,7 +8,7 @@
 - 📄 Know about my experiences **[Visit Website](https://www.techwiththarindu.tk/)**
 
 
-![Profile views](https://gpvc.arturio.dev/TharinduThilakshana)  <a href="#"> ![contact](https://img.shields.io/badge/Contact%20me-On%20Telegram-blue) </a>
+<img src="https://komarev.com/ghpvc/?username=tharinduthilakshana&label=Profile%20views&color=0e75b6&style=flat" alt="tharinduthilakshana" /> </p>
 <a href="http://movindu.ml">![contact](https://img.shields.io/badge/Visit%20Web-movindu.codes-red) </a>
 [![Github Followers](https://img.shields.io/github/followers/TharinduThilakshana?style=social)](https://github.com/Movindutb)
 [![Twitter Followers](https://img.shields.io/twitter/follow/TharinduThilak9?label=Followers&style=social)](https://twitter.com/MovinduBandara)
