@@ -8,7 +8,7 @@
 - 📄 Know about my experiences **[Visit Website](https://www.techwiththarindu.tk/)**
 
 
-https://komarev.com/ghpvc/?username=tharinduthilakshana&label=Profile%20views&color=0e75b6&style=flat
+[!](https://komarev.com/ghpvc/?username=tharinduthilakshana&label=Profile%20views&color=0e75b6&style=flat)
 [![Github Followers](https://img.shields.io/github/followers/TharinduThilakshana?style=social)](https://github.com/Movindutb)
 [![Twitter Followers](https://img.shields.io/twitter/follow/TharinduThilak9?label=Followers&style=social)](https://twitter.com/MovinduBandara)
 
