@@ -5,11 +5,7 @@
 - 👨‍💻 I'm a Web developer from Sri Lanka.
 - 👩‍🎓 I’m currently studying at Colombo Ananda Collage.
 - ✍ I’m currently learning Python Programming. 
-- 📫 How to reach me : **[on Telegram](@tharinduthilakshana)**
-- 👯 I’m looking to collaborate **[on YouTube](https://www.youtube.com/channel/UC_wNwisVb5i33fW6rNkrIlA)**
-- 📄 Know about my experiences **[Visit Website](http://techwiththarindu.cf/?i=1)**
-- 💬 Ask me about anything **[on Telegram](https://t.me/joinchat/52H00g1YfSMxOWZl)**
-- 📝 I regularly write articles on **[on Banzgeek](https://www.banzgeek.com/)**
+- 📄 Know about my experiences **[Visit Website](https://www.techwiththarindu.tk/)**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tharinduthilakshana&label=Profile%20views&color=0e75b6&style=flat" alt="tharinduthilakshana" /> </p><img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UC_wNwisVb5i33fW6rNkrIlA?label=%E1%B4%9B%E1%B4%87%E1%B4%84%CA%9C%20%E1%B4%A1%C9%AA%E1%B4%9B%CA%9C%20%E1%B4%9B%CA%9C%E1%B4%80%CA%80%C9%AA%C9%B4%E1%B4%85%E1%B4%9C&style=social"><img alt="GitHub followers" src="https://img.shields.io/github/followers/tharinduthilakshana?style=social"><img alt="Visit Website" src="https://img.shields.io/badge/Visit%20Web-www.techwiththarindu.cf-green">
 
