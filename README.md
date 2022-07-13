@@ -7,6 +7,9 @@
 - ✍ I’m currently learning Python Programming. 
 - 📄 Know about my experiences **[Visit Website](https://www.techwiththarindu.tk/)**
 
+
+![Profile views](https://gpvc.arturio.dev/TharinduThilakshana)  <a href="#"> ![contact](https://img.shields.io/badge/Contact%20me-On%20Telegram-blue) </a>
+<a href="http://movindu.ml">![contact](https://img.shields.io/badge/Visit%20Web-movindu.codes-red) </a>
 [![Github Followers](https://img.shields.io/github/followers/TharinduThilakshana?style=social)](https://github.com/Movindutb)
 [![Twitter Followers](https://img.shields.io/twitter/follow/TharinduThilak9?label=Followers&style=social)](https://twitter.com/MovinduBandara)
 
