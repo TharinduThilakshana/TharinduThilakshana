@@ -13,10 +13,10 @@
 
 ##  Social  Media
 
-<a href="https://www.instagram.com/itsmovindutb/"><img height="40" width="40" src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg"></a>
-<a href="https://www.instagram.com/itsmovindutb/"><img height="40" width="40" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-tile.svg"></a>
-<a href="https://www.instagram.com/itsmovindutb/"><img height="40" width="40" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg"></a>
-<a href="https://www.instagram.com/itsmovindutb/"><img height="40" width="40" src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg"></a>
+<a href="https://www.youtube.com/techwiththarindu/"><img height="40" width="40" src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg"></a>
+<a href="https://discordapp.com/users/TharinduThilakshana#0001"><img height="40" width="40" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-tile.svg"></a>
+<a href="https://www.twitter.com/tharinduthilak9/"><img height="40" width="40" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg"></a>
+<a href="https://www.instagram.com/tharinduthilak9/"><img height="40" width="40" src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg"></a>
 
 ##  My Languages and Tools
 
