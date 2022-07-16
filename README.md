@@ -15,9 +15,8 @@
 [![Twitter Followers](https://img.shields.io/twitter/follow/TharinduThilak9?label=Followers&style=social)](https://twitter.com/MovinduBandara)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tharinduthilakshana&label=Profile%20views&color=0e75b6&style=flat" alt="tharinduthilakshana" /> </p>
 
-<hr>
+##  Social  Media
 
-<h3 align="left">Social Media:</h3>
 <p align="left">
 <a href="https://twitter.com/tharinduthilak9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tharinduthilak9" height="30" width="40" /></a>
 <a href="https://instagram.com/techwiththarindu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="techwiththarindu" height="30" width="40" /></a>
