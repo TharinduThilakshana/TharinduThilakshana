@@ -1,5 +1,7 @@
 <h1 align="center">Hi, I'm Tharindu Thilakshana!</h1>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lato&size=24&color=F7F7F7&background=FFFFFF00&vCenter=true&lines=Hi%2C+I'm+Tharindu+Thilakshana!)](https://git.io/typing-svg)
+
 <a href="https://app.daily.dev/TharinduT"><img src="https://api.daily.dev/devcards/88d7be9c56e244799303276884dbc2c8.png?r=jsp" width="44%" align="right" alt="Tharindu Thilakshana's Dev Card"/></a>
 
 - 👨‍💻 I'm a Web developer from Sri Lanka.
