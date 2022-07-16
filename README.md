@@ -7,17 +7,16 @@
 - ✍ I’m currently learning Python Programming. 
 - 📄 Know about my experiences **[Visit Website](https://www.techwiththarindu.tk/)**
 
-[![Github Followers](https://img.shields.io/github/followers/TharinduThilakshana?style=social)](https://github.com/Movindutb)
-[![Twitter Followers](https://img.shields.io/twitter/follow/TharinduThilak9?label=Followers&style=social)](https://twitter.com/MovinduBandara)
+[![Github Followers](https://img.shields.io/github/followers/TharinduThilakshana?style=social)](https://github.com/TharinduThilakshana)
+[![Twitter Followers](https://img.shields.io/twitter/follow/TharinduThilak9?label=Followers&style=social)](https://twitter.com/TharinduThilak9)
 ![Profile views](https://komarev.com/ghpvc/?username=tharinduthilakshana&label=Profile%20views&color=0e75b6&style=flat)
 
 ##  Social  Media
 
-<p align="left">
-<a href="https://twitter.com/tharinduthilak9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tharinduthilak9" height="30" width="40" /></a>
-<a href="https://instagram.com/techwiththarindu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="techwiththarindu" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UC_wNwisVb5i33fW6rNkrIlA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ᴛᴇᴄʜ ᴡɪᴛʜ ᴛʜᴀʀɪɴᴅᴜ" height="30" width="40" /></a>
-</p>
+<a href="https://www.instagram.com/itsmovindutb/"><img height="40" width="40" src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg"></a>
+<a href="https://www.instagram.com/itsmovindutb/"><img height="40" width="40" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-tile.svg"></a>
+<a href="https://www.instagram.com/itsmovindutb/"><img height="40" width="40" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg"></a>
+<a href="https://www.instagram.com/itsmovindutb/"><img height="40" width="40" src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg"></a>
 
 ##  My Languages and Tools
 
