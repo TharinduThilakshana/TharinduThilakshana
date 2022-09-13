@@ -4,7 +4,7 @@
 
 - 👨‍💻 I'm a Web developer from Sri Lanka.
 - 👩‍🎓 I’m currently studying at Colombo Ananda Collage.
-- ✍ I’m currently learning Back-End Web Development.
+- ✍ I’m currently learning Angular.
 - 📄 Know about my experiences **[Visit Website](https://www.techwiththarindu.tk/)**
 
 [![Github Followers](https://img.shields.io/github/followers/TharinduThilakshana?style=social)](https://github.com/TharinduThilakshana)
