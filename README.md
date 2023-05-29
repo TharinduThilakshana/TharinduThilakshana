@@ -30,4 +30,3 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TharinduThilakshana&theme=highcontrast)](https://git.io/streak-stats)
 
-https://raw.githubusercontent.com/alejandroatacho/alejandroatacho/main/.github/img/Bottom.svg
